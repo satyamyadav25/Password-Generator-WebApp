@@ -152,6 +152,7 @@ generateBtn.addEventListener('click',()=>{
     // if(symbolCheck.checked){
     //     password+=generateSymbol();
     // }
+    // notes
 
     let funArr = [];
     if(uppercaseCheck.checked)
